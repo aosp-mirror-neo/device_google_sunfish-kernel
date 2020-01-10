@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6121398"
+    build_id: "6124874"
     target: "kernel_debug_hang"
     source_file: "pinctrl_lpi_dlkm.ko"
   }
   dest_file: "debug_hang/pinctrl_lpi_dlkm.ko"
-  version: "Linux version 4.14.117-g354f13153e7c-ab6121398 (android-build@wphs9.hot.corp.google.com) (Android (6051079 based on r370808) clang version 10.0.1 (https://android.googlesource.com/toolchain/llvm-project b9738d6d99f614c8bf7a3e7c769659b313b88244)) #1 SMP PREEMPT Thu Jan 9 03:56:08 UTC 2020"
+  version: "Linux version 4.14.117-g1d07b0e0de2a-ab6124874 (android-build@abfarm-us-east1-c-0095) (Android (6051079 based on r370808) clang version 10.0.1 (https://android.googlesource.com/toolchain/llvm-project b9738d6d99f614c8bf7a3e7c769659b313b88244)) #1 SMP PREEMPT Fri Jan 10 10:03:25 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
