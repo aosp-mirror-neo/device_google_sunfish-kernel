@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6410865"
+    build_id: "6417463"
     target: "kernel_sunfish"
     source_file: "sdmmagpie.dtb"
   }
   dest_file: "sdmmagpie.dtb"
-  version: "Linux version 4.14.165-g083f43173cbf-ab6410865 (android-build@abfarm716) (Android (6207600 based on r377782b) clang version 10.0.4 (https://android.googlesource.com/toolchain/llvm-project 0cb1afdb060d6619a9837ab6866cf4adf2336416)) #1 SMP PREEMPT Mon Apr 20 12:13:33 UTC 2020"
+  version: "Linux version 4.14.165-g114ec0275c53-ab6417463 (android-build@abfarm-us-west1-c-0067) (Android (6207600 based on r377782b) clang version 10.0.4 (https://android.googlesource.com/toolchain/llvm-project 0cb1afdb060d6619a9837ab6866cf4adf2336416)) #1 SMP PREEMPT Wed Apr 22 04:49:53 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
