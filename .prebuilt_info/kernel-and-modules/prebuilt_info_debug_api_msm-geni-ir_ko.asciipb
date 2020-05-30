@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6535581"
+    build_id: "6543217"
     target: "kernel_sunfish_debug_api"
     source_file: "msm-geni-ir.ko"
   }
   dest_file: "debug_api/msm-geni-ir.ko"
-  version: "Linux version 4.14.170-g0aabbd70b69a-ab6535581 (android-build@abfarm-00975) (Android (6207600 based on r377782b) clang version 10.0.4 (https://android.googlesource.com/toolchain/llvm-project 0cb1afdb060d6619a9837ab6866cf4adf2336416)) #1 SMP PREEMPT Thu May 28 07:11:29 UTC 2020"
+  version: "Linux version 4.14.170-gc8e6c317d9e5-ab6543217 (android-build@abfarm-01136) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Sat May 30 01:53:39 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
