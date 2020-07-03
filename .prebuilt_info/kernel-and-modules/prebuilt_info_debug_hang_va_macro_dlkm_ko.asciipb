@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6619675"
+    build_id: "6645864"
     target: "kernel_sunfish_debug_hang"
     source_file: "va_macro_dlkm.ko"
   }
   dest_file: "debug_hang/va_macro_dlkm.ko"
-  version: "Linux version 4.14.170-gd291ad6722d8-ab6619675 (android-build@abfarm-east4-102) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Tue Jun 23 11:21:09 UTC 2020"
+  version: "Linux version 4.14.170-g912f8b92398e-ab6645864 (android-build@abfarm-01120) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Jul 1 16:02:12 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
