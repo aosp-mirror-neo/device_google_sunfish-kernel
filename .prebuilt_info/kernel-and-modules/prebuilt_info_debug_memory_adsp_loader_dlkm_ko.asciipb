@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6619675"
+    build_id: "6664097"
     target: "kernel_sunfish_debug_memory"
     source_file: "adsp_loader_dlkm.ko"
   }
   dest_file: "debug_memory/adsp_loader_dlkm.ko"
-  version: "Linux version 4.14.170-gd291ad6722d8-ab6619675 (android-build@abfarm-east4-102) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Tue Jun 23 11:21:09 UTC 2020"
+  version: "Linux version 4.14.180-g866c8889a56b-ab6664097 (android-build@abfarm-east4-024) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Jul 8 22:48:33 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
