@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6664097"
+    build_id: "6674756"
     target: "kernel_sunfish_khwasan"
     source_file: "q6_pdr_dlkm.ko"
   }
   dest_file: "khwasan/q6_pdr_dlkm.ko"
-  version: "Linux version 4.14.180-g866c8889a56b-ab6664097 (android-build@abfarm-east4-024) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Jul 8 22:48:33 UTC 2020"
+  version: "Linux version 4.14.186-g9ab72c862282-ab6674756 (android-build@abfarm-01164) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Jul 13 10:12:00 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
