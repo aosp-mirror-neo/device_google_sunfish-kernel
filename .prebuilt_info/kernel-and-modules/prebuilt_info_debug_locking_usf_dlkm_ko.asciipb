@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6674756"
+    build_id: "6684194"
     target: "kernel_sunfish_debug_locking"
     source_file: "usf_dlkm.ko"
   }
   dest_file: "debug_locking/usf_dlkm.ko"
-  version: "Linux version 4.14.186-g9ab72c862282-ab6674756 (android-build@abfarm-01164) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Jul 13 10:12:00 UTC 2020"
+  version: "Linux version 4.14.186-g6f105b24ab03-ab6684194 (android-build@abfarm-east4-082) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Jul 16 02:12:48 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
