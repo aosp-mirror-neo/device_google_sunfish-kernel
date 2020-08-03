@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6715957"
+    build_id: "6725056"
     target: "kernel_sunfish"
     source_file: "wlan.ko"
   }
   dest_file: "wlan.ko"
-  version: "Linux version 4.14.186-g2028404822bb-ab6715957 (android-build@abfarm-01141) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Tue Jul 28 18:52:16 UTC 2020"
+  version: "Linux version 4.14.186-g0bb64cc16006-ab6725056 (android-build@abfarm377) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Jul 31 06:29:48 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
