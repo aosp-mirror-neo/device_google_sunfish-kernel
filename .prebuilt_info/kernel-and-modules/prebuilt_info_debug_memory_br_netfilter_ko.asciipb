@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6793805"
+    build_id: "6802073"
     target: "kernel_sunfish_debug_memory"
     source_file: "br_netfilter.ko"
   }
   dest_file: "debug_memory/br_netfilter.ko"
-  version: "Linux version 4.14.191-g5fbde1a24857-ab6793805 (android-build@abfarm-00971) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Aug 27 03:13:33 UTC 2020"
+  version: "Linux version 4.14.191-g6fe29af44d72-ab6802073 (android-build@abfarm-us-west1-c-0071) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Aug 31 05:42:34 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
