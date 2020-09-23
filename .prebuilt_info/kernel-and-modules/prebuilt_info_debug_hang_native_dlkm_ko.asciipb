@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6819513"
+    build_id: "6847677"
     target: "kernel_sunfish_debug_hang"
     source_file: "native_dlkm.ko"
   }
   dest_file: "debug_hang/native_dlkm.ko"
-  version: "Linux version 4.14.191-g66e2d03b9bbb-ab6819513 (android-build@abfarm-us-west1-c-0071) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Tue Sep 8 15:10:59 UTC 2020"
+  version: "Linux version 4.14.191-g399ca04f58d2-ab6847677 (android-build@abfarm-01108) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Sep 18 21:37:11 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
