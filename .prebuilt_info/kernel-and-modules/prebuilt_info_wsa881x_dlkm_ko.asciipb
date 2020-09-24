@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6847677"
+    build_id: "6860561"
     target: "kernel_sunfish"
     source_file: "wsa881x_dlkm.ko"
   }
   dest_file: "wsa881x_dlkm.ko"
-  version: "Linux version 4.14.191-g399ca04f58d2-ab6847677 (android-build@abfarm-01108) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Fri Sep 18 21:37:11 UTC 2020"
+  version: "Linux version 4.14.191-g8275f5f9ff12-ab6860561 (android-build@abfarm-us-west1-c-0078) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu Sep 24 10:06:20 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
