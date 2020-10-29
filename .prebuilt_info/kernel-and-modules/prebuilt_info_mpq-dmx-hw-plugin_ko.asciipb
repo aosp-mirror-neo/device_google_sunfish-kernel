@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6930192"
+    build_id: "6937918"
     target: "kernel_sunfish"
     source_file: "mpq-dmx-hw-plugin.ko"
   }
   dest_file: "mpq-dmx-hw-plugin.ko"
-  version: "Linux version 4.14.199-g716c601cbbd4-ab6930192 (android-build@abfarm626) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Mon Oct 26 08:02:47 UTC 2020"
+  version: "Linux version 4.14.199-g9c3455791594-ab6937918 (android-build@abfarm-00938) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Wed Oct 28 23:02:50 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
