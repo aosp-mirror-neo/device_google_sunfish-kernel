@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6968795"
+    build_id: "6974654"
     target: "kernel_sunfish_debug_api"
     source_file: "q6_notifier_dlkm.ko"
   }
   dest_file: "debug_api/q6_notifier_dlkm.ko"
-  version: "Linux version 4.14.199-g68e13ad8c471-ab6968795 (android-build@abfarm-us-west1-c-0047) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Thu Nov 12 13:13:39 UTC 2020"
+  version: "Linux version 4.14.199-gc937104528d9-ab6974654 (android-build@abfarm-01112) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Mon Nov 16 04:11:27 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
