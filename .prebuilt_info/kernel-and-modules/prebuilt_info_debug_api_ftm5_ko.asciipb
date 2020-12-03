@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "6996555"
+    build_id: "7005738"
     target: "kernel_sunfish_debug_api"
     source_file: "ftm5.ko"
   }
   dest_file: "debug_api/ftm5.ko"
-  version: "Linux version 4.14.199-g7cf1cc9a0957-ab6996555 (android-build@abfarm-east4-069) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Thu Nov 26 06:57:05 UTC 2020"
+  version: "Linux version 4.14.199-gb0ed5e8bc977-ab7005738 (android-build@abfarm-00993) (Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d)) #1 SMP PREEMPT Wed Dec 2 02:24:36 UTC 2020"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
