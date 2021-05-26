@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7393181"
+    build_id: "7399672"
     target: "kernel_sunfish_kasan"
     source_file: "ftm5.ko"
   }
   dest_file: "kasan/ftm5.ko"
-  version: "Linux version 4.14.232-g46517868e1d5-ab7393181 (android-build@abfarm-east4-031) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon May 24 13:42:31 UTC 2021"
+  version: "Linux version 4.14.232-gca99646d0153-ab7399672 (android-build@abfarm-us-east1-c-0089) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed May 26 06:28:56 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
