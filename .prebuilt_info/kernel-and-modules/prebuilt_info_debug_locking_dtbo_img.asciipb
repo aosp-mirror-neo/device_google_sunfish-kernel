@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7387006"
+    build_id: "7393181"
     target: "kernel_sunfish_debug_locking"
     source_file: "dtbo.img"
   }
   dest_file: "debug_locking/dtbo.img"
-  version: "Linux version 4.14.228-g68db0e2c8037-ab7387006 (android-build@abfarm-01132) (Android (7211189, based on r416183) clang version 12.0.4 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.4 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Fri May 21 10:17:59 UTC 2021"
+  version: "Linux version 4.14.232-g46517868e1d5-ab7393181 (android-build@abfarm-east4-031) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Mon May 24 13:42:31 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
