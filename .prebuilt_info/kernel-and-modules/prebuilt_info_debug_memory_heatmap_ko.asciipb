@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7341516"
+    build_id: "7613631"
     target: "kernel_sunfish_debug_memory"
     source_file: "heatmap.ko"
   }
   dest_file: "debug_memory/heatmap.ko"
-  version: "Linux version 4.14.212-gccfcc225a50c-ab7341516 (android-build@abfarm-east4-081) (Android (6443078 based on r383902) clang version 11.0.1 (https://android.googlesource.com/toolchain/llvm-project b397f81060ce6d701042b782172ed13bee898b79)) #1 SMP PREEMPT Thu May 6 10:17:00 UTC 2021"
+  version: "Linux version 4.14.234-g24cac8317f1f-ab7613631 (android-build@abfarm-east4-006) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Aug 5 06:59:39 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
