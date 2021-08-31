@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "7627804"
+    build_id: "7672419"
     target: "kernel_sunfish_debug_memory"
     source_file: "q6_pdr_dlkm.ko"
   }
   dest_file: "debug_memory/q6_pdr_dlkm.ko"
-  version: "Linux version 4.14.238-g23de58118e85-ab7627804 (android-build@abfarm256) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Tue Aug 10 13:44:48 UTC 2021"
+  version: "Linux version 4.14.243-gf6f89e964415-ab7672419 (android-build@abfarm-01199) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Aug 25 07:46:54 UTC 2021"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
