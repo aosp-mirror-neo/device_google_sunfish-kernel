@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9062920"
+    build_id: "9145035"
     target: "kernel_sunfish_debug_memory"
     source_file: "wsa881x_dlkm.ko"
   }
   dest_file: "debug_memory/wsa881x_dlkm.ko"
-  version: "Linux version 4.14.276-g6ef255005cea-ab9062920 (android-build@abfarm-2004-0433) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Wed Sep 14 08:05:03 UTC 2022"
+  version: "Linux version 4.14.289-gbce449bace2c-ab9145035 (android-build@abfarm-2004-0212) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Thu Oct 6 04:31:28 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/sunfish-kernel"
 }
